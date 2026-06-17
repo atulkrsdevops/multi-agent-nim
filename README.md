@@ -45,6 +45,8 @@ secondary caregiver. For expenses, receipts are required above $25 and meal
 allowances are $60 domestic / $80 international — separate policies with no
 direct overlap.
 
+![CLI trace showing retrieve, grade, and generate nodes](docs/screenshots/Multi-agentNIM1.jpg)
+![CLI trace showing retrieve, grade, and generate nodes](docs/screenshots/Multi-agentNIM2.jpg)
 sources: leave_policy.md, expense_policy.md
 ```
 
@@ -63,6 +65,7 @@ accuracy: 5/5 = 100%
 avg latency: 5.1s
 ```
 
+![Eval results: 5/5 pass, 4.0s average latency](docs/screenshots/Multi-agentNIM3.jpg)
 ---
 
 ## Quickstart
